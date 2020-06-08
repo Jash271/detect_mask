@@ -10,19 +10,20 @@ setuptools.setup(
     name='detect_mask',
     license="MIT",
     description='Python Package for detecting masks in the input Photos',
-    version='v0.0.3',
+    version='v0.0.7',
     long_description=description,
     url='https://github.com/Jash271/Detect_Mask',
     packages=setuptools.find_packages(),
     
-    python_requires=">=3.5",
+    python_requires=">=3.6.8",
     install_requires=[],
     classifiers=[
         'Development Status :: 4 - Beta',
         'License :: OSI Approved :: MIT License',
         'Programming Language :: Python',
-        'Programming Language :: Python :: 3.5',
-        'Programming Language :: Python :: 3.6',
+        
+        
+        
         'Topic :: Software Development :: Libraries',
         'Topic :: Software Development :: Libraries :: Python Modules',
         'Intended Audience :: Developers',
