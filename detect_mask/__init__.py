@@ -1,3 +1,3 @@
 from . Mask import (
-    Determine
+    Mask
     )

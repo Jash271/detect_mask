@@ -1,2 +1,3 @@
 include export.pkl
 include detect_mask\export.pkl
+include detect_mask\haarcascade_frontalface_default.xml
