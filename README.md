@@ -2,7 +2,7 @@
 # Install module for use by this command https://pypi.org/project/detect-mask/
 ## Stable Build for windows
 
-### Fast AI required to run this module
+### Fast AI,Open CV required to run this module
 ### Just Import detect_mask module : 
 ```
 import detect_mask
