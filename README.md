@@ -1,4 +1,5 @@
 # Detect Mask in input photo :mask:
+![PyPI](https://img.shields.io/pypi/v/detect_mask)
 # Install module for use by this command https://pypi.org/project/detect-mask/
 ## Stable Build for windows
 
