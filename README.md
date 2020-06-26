@@ -1,5 +1,5 @@
 # Detect Mask in input photo :mask:
-![Upload Python Package](https://github.com/Jash271/detect_mask/workflows/Upload%20Python%20Package/badge.svg) ![PyPI](https://img.shields.io/pypi/v/detect_mask) ![PyPI - Status](https://img.shields.io/pypi/status/detect_mask) ![PyPI - Downloads](https://img.shields.io/pypi/dw/detect_mask)
+![Upload Python Package](https://github.com/Jash271/detect_mask/workflows/Upload%20Python%20Package/badge.svg) ![PyPI](https://img.shields.io/pypi/v/detect_mask) ![PyPI - Status](https://img.shields.io/pypi/status/detect_mask) ![PyPI - Downloads](https://img.shields.io/pypi/dw/detect_mask) ![PyPI - License](https://img.shields.io/pypi/l/detect_mask)
 # Install module for use by this command https://pypi.org/project/detect-mask/
 ## Stable Build for windows
 
