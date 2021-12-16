@@ -10,7 +10,7 @@ setuptools.setup(
     name='detect_mask',
     license="MIT",
     description='Python Package for detecting masks in the input Photos ,Pull out the camera for real time mask detection',
-    version='v0.6.0',
+    version='v0.7.0',
     long_description=description,
     url='https://github.com/Jash271/Detect_Mask',
     packages=setuptools.find_packages(),
